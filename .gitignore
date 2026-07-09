@@ -1,0 +1,14 @@
+*.pdf
+*.docx
+*.doc
+*.zip
+*.rar
+*.7z
+*.log
+*.png
+*.jpg
+*.jpeg
+.env
+__pycache__/
+.DS_Store
+Thumbs.db
